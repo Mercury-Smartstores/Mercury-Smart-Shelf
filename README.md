@@ -1,4 +1,4 @@
-# Mercury Smart Shelf <img src="https://raw.githubusercontent.com/Mercury-Smartstores/Mercury-Smart-Shelf/main/assets/arduino.ico?token=AGUTBJXWUQ3I7NAL7BLMG6K7Y7WY6" width="32" height="32" /> 
+# Mercury Smart Shelf 🗃️
 
 An Arduino controller application for Smart Shelves
 
@@ -6,7 +6,7 @@ An Arduino controller application for Smart Shelves
 
 TODO: Add the libraries to the Arduino IDE. Arduino IDE configuration.
 
-### 📏 Setup diagram 
+### 📋 Setup diagram 
 
 TODO: Describe the setup diagram with the load cell, the HX711 load cell amplifier and the arduino. 
 
@@ -26,4 +26,3 @@ TODO: Link to the License in the repo
 
 ### 🔴 About Mercury
 TODO: Explain what is Mercury and link to other resources
-
