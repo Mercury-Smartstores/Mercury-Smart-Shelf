@@ -12,14 +12,13 @@ HX711 loadcell;
 
 void setup() {
     Serial.begin(9600);
-
     loadcell.begin(LOADCELL_DOUT_PIN, LOADCELL_SCK_PIN);
     loadcell.set_scale(LOADCELL_DIVIDER);
     loadcell.tare();
 }
 
 void loop() {
-    Serial.print("Weight: ");
+    Serial.print("Peso: ");
     Serial.println(loadcell.get_units(20));
     delay(1000);
 }

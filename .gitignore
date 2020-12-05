@@ -1,0 +1,18 @@
+# PlatformIO
+.pio
+
+# CMake files
+CMakeListsPrivate.txt
+cmake-build-*/
+
+# Project configuration for deployment
+misc.xml
+serialmonitor_settings.xml
+vcs.xml
+
+
+# Ignore LICENSE
+LICENSE
+
+# Idea files
+.idea/
