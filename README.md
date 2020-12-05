@@ -12,7 +12,7 @@ TODO: Add the libraries to the Arduino IDE. Arduino IDE configuration.
 
 TODO: Describe the setup diagram with the load cell, the HX711 load cell amplifier and the arduino. 
 
-<img src="https://github.com/Mercury-Smartstores/Mercury-Smart-Shelf/blob/main/assets/arduino_loadcell_setup.png?raw=true" alt="Arduino + Load cells setup diagram" width="250" height="370" /> 
+<img src="https://github.com/Mercury-Smartstores/Mercury-Smart-Shelf/blob/main/readme-assets/arduino_loadcell_setup.png?raw=true" alt="Arduino + Load cells setup diagram" width="250" height="370" /> 
 
 ### ⚙️ Running Tests
 TODO: How to run tests for this package?
