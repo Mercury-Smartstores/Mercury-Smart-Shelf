@@ -17,17 +17,15 @@
 #include "WProgram.h"
 #endif
 
-class HX711
-{
+class HX711 {
 private:
-    byte PD_SCK;	// Power Down and Serial Clock Input Pin
-    byte DOUT;		// Serial Data Output Pin
-    byte GAIN;		// amplification factor
-    long OFFSET = 0;	// used for tare weight
-    float SCALE = 1;	// used to return weight in grams, kg, ounces, whatever
+    byte PD_SCK;    // Power Down and Serial Clock Input Pin
+    byte DOUT;      // Serial Data Output Pin
+    byte GAIN;      // amplification factor
+    long OFFSET = 0;// used for tare weight
+    float SCALE = 1;// used to return weight in grams, kg, ounces, whatever
 
 public:
-
     HX711();
 
     virtual ~HX711();
@@ -90,4 +88,4 @@ public:
 };
 
 
-#endif //MERCURY_SMART_SHELF_HX711_H
+#endif//MERCURY_SMART_SHELF_HX711_H
