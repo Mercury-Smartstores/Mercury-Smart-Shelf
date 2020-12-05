@@ -4,6 +4,8 @@ An Arduino controller application for Smart Shelves
 
 ### 🔧 Installation 
 
+We are using [CLion](https://www.jetbrains.com/clion/) with [PlatformIO](https://platformio.org/) for dev work.
+
 TODO: Add the libraries to the Arduino IDE. Arduino IDE configuration.
 
 ### 📋 Setup diagram 
