@@ -20,11 +20,11 @@ TODO: How to run tests for this package?
 ### 📦 Deploying
 TODO: How to deploy the program?
 
-### ✒️ Authors
-TODO: List authors of the package, brief description
-
 ### 📄 License
-TODO: Link to the License in the repo
 
-### 🔴 About Mercury
-TODO: Explain what is Mercury and link to other resources
+This repository is licensed under the [MIT License](LICENSE).
+
+### ♦️ About Mercury
+
+This repository contains the code for a package from the Mercury infrastructure.
+If you want to know more about Mercury check out the [Mercury Organization](https://github.com/Mercury-Smartstores).
