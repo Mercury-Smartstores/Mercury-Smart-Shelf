@@ -20,7 +20,7 @@ The following diagram shows how the Arduino is connected with the HX711 and the 
 The main idea for this setup is to recreate a Smart Shelf to be used as a [Mercury](https://github.com/Mercury-Smartstores)
 Shelves Module:
 
-<img src="https://github.com/Mercury-Smartstores/Mercury-Smart-Shelf/blob/main/readme-assets/smart_shelves_diagram?raw=true" alt="Mercury Shelves Module" /> 
+<img src="https://github.com/Mercury-Smartstores/Mercury-Smart-Shelf/blob/main/readme-assets/smart_shelves_diagram.png?raw=true" alt="Mercury Shelves Module" /> 
 
 ### 📦 Deploying
 
